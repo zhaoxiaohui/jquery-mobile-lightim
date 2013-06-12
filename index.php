@@ -15,10 +15,7 @@
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta property="og:type" content="website"/>
-<!--
-<meta property="og:url" content="http://whereisgasp.freelancis.net"/>
-<meta property="og:image" content="http://whereisgasp.freelancis.net/apple-touch-icon-114x114-precomposed.png"/>
--->
+
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57-precomposed.png">
@@ -48,7 +45,7 @@
 	          <div class="server_select">
 		          <label for="server" class="select">Serveur:</label>
 				  <select name="server" class="server">
-					<option value="http://node.freelancis.net">Freelancis</option>
+					<option value="http://lightim.aws.af.cm/">AWS</option>
 					<option value="http://node.kw-creation.com">KW-Creation</option>
 				  </select>
 			  </div>
